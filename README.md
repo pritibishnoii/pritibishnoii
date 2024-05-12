@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm priti bishnoi</h1>
 <h3 align="center">I'm passionate for problem solving and MERN Stack developer from India</h3>
-<img src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen"/>
+<img src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
