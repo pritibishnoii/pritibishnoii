@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm priti bishnoi</h1>
 <h3 align="center">I'm passionate for problem solving and MERN Stack developer from India</h3>
-<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="200px"/>
+<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="300px"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/in/priti-bishnoi-573648243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/priti-bishnoi-573648243" height="30" width="40" /></a>
