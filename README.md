@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm priti bishnoi</h1>
 <h3 align="center">I'm passionate for problem solving and MERN Stack developer from India</h3>
-<img src="https://octodex.github.com/snowtocat"/>
+<iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/in/priti-bishnoi-573648243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/priti-bishnoi-573648243" height="30" width="40" /></a>
