@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm priti bishnoi</h1>
 <h3 align="center">Passionate Full Stack Web Developer specializing in the MERN stack, dedicated to creating dynamic, user-centric web applications. </h3>
-<img src ="https://github.com/pritibishnoii/Namste-JavaScript/blob/main/Namste%20JavaScript.png" width="400" />
+<div>
+  <img src ="https://github.com/pritibishnoii/Namste-JavaScript/blob/main/Namste%20JavaScript.png" width="400" />
 <img src ="https://private-user-images.githubusercontent.com/108807403/378194144-70c0bfa4-a26a-4526-a4a6-df2415a28b3e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzcwMTE4MTksIm5iZiI6MTczNzAxMTUxOSwicGF0aCI6Ii8xMDg4MDc0MDMvMzc4MTk0MTQ0LTcwYzBiZmE0LWEyNmEtNDUyNi1hNGE2LWRmMjQxNWEyOGIzZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDExNlQwNzExNTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iMDAxYzZjYTRmNWNiYWU1ZWQ1ZmIwN2M0OTYyOWYwNzhjZWI2M2Q4NDU3NTFlOTU4ZTJhOTQxMzY1OTBjZGY2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.icSHv_t18-U8072EpoUO8zEf9hKODf-PKrgJ-75_gns" width="400" />
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
