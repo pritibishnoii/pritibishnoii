@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm priti bishnoi</h1>
 <h3 align="center">Passionate Full Stack Web Developer specializing in the MERN stack, dedicated to creating dynamic, user-centric web applications. </h3>
 <div>
-  <img src ="https://github.com/pritibishnoii/Namste-JavaScript/blob/main/Namste%20JavaScript.png" width="200" />
-<img src ="https://github.com/pritibishnoii/Namste-JavaScript/blob/main/MERN-Full%20Stack.png" width="200" />
-  <img src="https://github.com/pritibishnoii/Namste-JavaScript/blob/main/backend-development.png" width="200"/>
+  <img src ="https://github.com/pritibishnoii/Namste-JavaScript/blob/main/Namste%20JavaScript.png" width="250" />
+<img src ="https://github.com/pritibishnoii/Namste-JavaScript/blob/main/MERN-Full%20Stack.png" width="250" />
+  <img src="https://github.com/pritibishnoii/Namste-JavaScript/blob/main/backend-development.png" width="250"/>
 </div>
 
 <h3 align="left">Connect with me:</h3>
