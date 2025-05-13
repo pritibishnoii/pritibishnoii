@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Full Stack Web Developer specializing in the MERN stack, dedicated to creating dynamic, user-centric web applications. </h3>
 <div>
   <img src ="https://github.com/pritibishnoii/Namste-JavaScript/blob/main/Namste%20JavaScript.png" width="400" />
-<img src ="https://github.com/pritibishnoii/certificates/blob/main/Cuvette%20Fullstack%20Development%20Certificate%20-%20Priti%20Bishnoi.pdf" width="400" />
+<img src ="https://github.com/pritibishnoii/Namste-JavaScript/blob/main/MERN-Full%20Stack.png" width="400" />
 </div>
 
 <h3 align="left">Connect with me:</h3>
