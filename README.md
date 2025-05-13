@@ -3,6 +3,7 @@
 <div>
   <img src ="https://github.com/pritibishnoii/Namste-JavaScript/blob/main/Namste%20JavaScript.png" width="400" />
 <img src ="https://github.com/pritibishnoii/Namste-JavaScript/blob/main/MERN-Full%20Stack.png" width="400" />
+  <img src="https://github.com/pritibishnoii/Namste-JavaScript/blob/main/backend-development.png" width="400"/>
 </div>
 
 <h3 align="left">Connect with me:</h3>
