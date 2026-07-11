@@ -1,10 +1,56 @@
-<h1 align="center">Hi 👋, I'm priti bishnoi</h1>
-<h3 align="center">Passionate Full Stack Web Developer specializing in the MERN stack, dedicated to creating dynamic, user-centric web applications. </h3>
-<div>
-  <img src ="https://github.com/pritibishnoii/Namste-JavaScript/blob/main/Namste%20JavaScript.png" width="250" />
-<img src ="https://github.com/pritibishnoii/Namste-JavaScript/blob/main/MERN-Full%20Stack.png" width="250" />
-  <img src="https://github.com/pritibishnoii/Namste-JavaScript/blob/main/backend-development.png" width="250"/>
-</div>
+<h1 align="center">Hi, I'm Priti Bishnoi 👋</h1>
+<h3 align="center">Full Stack Developer (MERN) → Building toward AI-Native Development</h3>
+
+<p align="center">
+  <a href="https://preetiportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Talk_to_my_AI_Assistant-000?style=for-the-badge&logo=vercel" /></a>
+  <a href="https://www.linkedin.com/in/priti-bishnoi/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:priti12bishnoi@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### About Me
+
+I'm a full stack developer working in the MERN ecosystem, currently focused on moving from "using AI tools" to **building with AI** — prompt engineering, LLM integration, and real product features, not just tutorials.
+
+My portfolio isn't a static page — it's a live AI assistant built with Next.js and the Groq API (Llama 3.3) that you can actually talk to. That's the project I'd point you to first.
+
+- 🔭 Currently building: AI-integrated features on top of MERN apps
+- 🌱 Learning: agentic system design, deeper LLM integration patterns
+- 💬 Ask me about: React, Next.js, Node.js/Express, MongoDB, or how I built my AI portfolio assistant
+- 📫 Reach me: priti12bishnoi@gmail.com
+
+---
+
+### 🚀 Featured Projects
+
+**[AI-Powered Portfolio Assistant](https://preetiportfolio.vercel.app/)**
+A production AI assistant embedded in my personal portfolio — built with Next.js, TypeScript, and Tailwind CSS, powered by the Groq API (Llama 3.3). Ask it about my skills, projects, or experience and it answers in real time. Fully deployed, not a mockup.
+`Next.js` `TypeScript` `Tailwind CSS` `Groq API` `Prompt Engineering`
+
+**[Story App](https://storyapp-nine.vercel.app/)**
+A full-stack MERN platform for creating and sharing stories — JWT authentication, Formik-based form handling, React Toastify notifications, and validated REST APIs across frontend and backend.
+`React` `Node.js` `Express` `MongoDB` `JWT`
+
+> More projects on my pinned repos below — this list stays intentionally short. I'd rather show two things I can talk through in depth than ten I can't.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:** JavaScript, TypeScript, HTML5, CSS3
+**Frontend:** React.js, Next.js, Redux Toolkit, Tailwind CSS, GSAP
+**Backend:** Node.js, Express.js, MongoDB, SQL, REST APIs, JWT
+**AI Integration:** Groq API, Prompt Engineering, LLM-powered chat interfaces
+**Tools:** Git, GitHub, VS Code, Cursor, Vercel, Postman, Figma
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pritibishnoii&show_icons=true&theme=default&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritibishnoii&theme=default&hide_border=true" height="165"/>
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
