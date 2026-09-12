@@ -66,12 +66,53 @@ Conversational AI, Voice AI, and MCP</b>.
 <h4>💻 Frontend</h4>
 
 <p>
-<code>React.js</code>
-<code>Next.js</code>
-<code>TypeScript</code>
-<code>JavaScript</code>
-<code>Tailwind CSS</code>
-<code>Redux Toolkit</code>
+  <!-- React -->
+  <a href="https://react.dev/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+      alt="React.js"
+    />
+  </a>
+
+  <!-- Next.js -->
+  <a href="https://nextjs.org/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"
+      alt="Next.js"
+    />
+  </a>
+
+  <!-- TypeScript -->
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"
+      alt="TypeScript"
+    />
+  </a>
+
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img
+      src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"
+      alt="JavaScript"
+    />
+  </a>
+
+  <!-- Tailwind CSS -->
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"
+      alt="Tailwind CSS"
+    />
+  </a>
+
+  <!-- Redux Toolkit -->
+  <a href="https://redux-toolkit.js.org/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"
+      alt="Redux Toolkit"
+    />
+  </a>
 </p>
 
 </td>
@@ -81,11 +122,45 @@ Conversational AI, Voice AI, and MCP</b>.
 <h4>⚙️ Backend</h4>
 
 <p>
-<code>Node.js</code>
-<code>Express.js</code>
-<code>MongoDB</code>
-<code>REST APIs</code>
-<code>JWT</code>
+ <!-- Node.js -->
+  <a href="https://nodejs.org/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"
+      alt="Node.js"
+    />
+  </a>
+
+  <!-- Express.js -->
+  <a href="https://expressjs.com/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
+      alt="Express.js"
+    />
+  </a>
+
+  <!-- MongoDB -->
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"
+      alt="MongoDB"
+    />
+  </a>
+
+  <!-- REST API -->
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/REST" target="_blank">
+    <img
+      src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"
+      alt="REST APIs"
+    />
+  </a>
+
+  <!-- JWT -->
+  <a href="https://jwt.io/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"
+      alt="JWT"
+    />
+  </a>
 </p>
 
 </td>
@@ -96,28 +171,117 @@ Conversational AI, Voice AI, and MCP</b>.
 
 <h4>🤖 AI & LLM</h4>
 
-<p>
-<code>OpenAI</code>
-<code>OpenRouter</code>
-<code>Groq</code>
-<code>Vapi</code>
-<code>LLM APIs</code>
-<code>Prompt Engineering</code>
-</p>
+<h4>🤖 AI & LLM</h4>
 
+<p align="left">
+
+  <!-- OpenAI -->
+  <a href="https://openai.com/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white"
+      alt="OpenAI"
+    />
+  </a>
+
+  <!-- OpenRouter -->
+  <a href="https://openrouter.ai/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/OpenRouter-6467F2?style=for-the-badge&logo=openrouter&logoColor=white"
+      alt="OpenRouter"
+    />
+  </a>
+
+  <!-- Groq -->
+  <a href="https://groq.com/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white"
+      alt="Groq"
+    />
+  </a>
+
+  <!-- Vapi -->
+  <a href="https://vapi.ai/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Vapi-6C47FF?style=for-the-badge&logoColor=white"
+      alt="Vapi"
+    />
+  </a>
+
+  <!-- LLM APIs -->
+  <a href="https://platform.openai.com/docs" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LLM%20APIs-412991?style=for-the-badge&logo=openai&logoColor=white"
+      alt="LLM APIs"
+    />
+  </a>
+
+  <!-- Prompt Engineering -->
+  <a href="https://platform.openai.com/docs/guides/prompt-engineering" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Prompt%20Engineering-FFB000?style=for-the-badge&logo=openai&logoColor=000000"
+      alt="Prompt Engineering"
+    />
+  </a>
+
+</p>
 </td>
 
 <td width="50%" valign="top">
 
 <h4>🔗 AI Concepts</h4>
 
-<p>
-<code>RAG</code>
-<code>AI Agents</code>
-<code>Agentic AI</code>
-<code>Automation</code>
-<code>Voice AI</code>
-<code>MCP</code>
+<h4>🔗 AI Concepts</h4>
+
+<p align="left">
+
+  <!-- RAG -->
+  <a href="https://www.pinecone.io/learn/retrieval-augmented-generation/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/RAG-00A67E?style=for-the-badge&logo=databricks&logoColor=white"
+      alt="RAG"
+    />
+  </a>
+
+  <!-- AI Agents -->
+  <a href="https://platform.openai.com/docs/guides/agents" target="_blank">
+    <img
+      src="https://img.shields.io/badge/AI%20Agents-8B5CF6?style=for-the-badge&logo=openai&logoColor=white"
+      alt="AI Agents"
+    />
+  </a>
+
+  <!-- Agentic AI -->
+  <a href="https://www.ibm.com/think/topics/agentic-ai" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Agentic%20AI-FF6B35?style=for-the-badge&logo=ai&logoColor=white"
+      alt="Agentic AI"
+    />
+  </a>
+
+  <!-- Automation -->
+  <a href="https://n8n.io/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"
+      alt="Automation"
+    />
+  </a>
+
+  <!-- Voice AI -->
+  <a href="https://vapi.ai/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Voice%20AI-6C47FF?style=for-the-badge&logoColor=white"
+      alt="Voice AI"
+    />
+  </a>
+
+  <!-- MCP -->
+  <a href="https://modelcontextprotocol.io/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white"
+      alt="Model Context Protocol"
+    />
+  </a>
+
 </p>
 
 </td>
@@ -128,13 +292,50 @@ Conversational AI, Voice AI, and MCP</b>.
 
 <h4>🎨 UI & Animation</h4>
 
-<p>
-<code>Tailwind CSS</code>
-<code>GSAP</code>
-<code>Framer Motion</code>
-<code>GSAP Animation</code>
-<code>shadcn/ui</code>
-<code>MUI</code>
+<h4>🎨 UI & Animation</h4>
+
+<p align="left">
+
+  <!-- Tailwind CSS -->
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"
+      alt="Tailwind CSS"
+    />
+  </a>
+
+  <!-- GSAP -->
+  <a href="https://gsap.com/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=000000"
+      alt="GSAP"
+    />
+  </a>
+
+  <!-- Framer Motion -->
+  <a href="https://motion.dev/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"
+      alt="Framer Motion"
+    />
+  </a>
+
+  <!-- shadcn/ui -->
+  <a href="https://ui.shadcn.com/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"
+      alt="shadcn/ui"
+    />
+  </a>
+
+  <!-- MUI -->
+  <a href="https://mui.com/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white"
+      alt="Material UI"
+    />
+  </a>
+
 </p>
 
 </td>
@@ -143,17 +344,75 @@ Conversational AI, Voice AI, and MCP</b>.
 
 <h4>🛠️ Tools</h4>
 
-<p>
-<code>Git</code>
-<code>GitHub</code>
-<code>Postman</code>
-<code>Figma</code>
-<code>VS Code</code>
-<code>Vercel</code>
-<code>Claude</code>
-<code>Antigravity</code>
-</p>
+<h4>🛠️ Tools & Platforms</h4>
 
+<p align="left">
+
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
+      alt="Git"
+    />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/pritibishnoii" target="_blank">
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+
+  <!-- Postman -->
+  <a href="https://www.postman.com/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"
+      alt="Postman"
+    />
+  </a>
+
+  <!-- Figma -->
+  <a href="https://www.figma.com/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
+      alt="Figma"
+    />
+  </a>
+
+  <!-- VS Code -->
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"
+      alt="VS Code"
+    />
+  </a>
+
+  <!-- Vercel -->
+  <a href="https://vercel.com/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Vercel"
+    />
+  </a>
+
+  <!-- Claude -->
+  <a href="https://claude.ai/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"
+      alt="Claude"
+    />
+  </a>
+
+  <!-- Antigravity -->
+  <a href="#" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Antigravity-6366F1?style=for-the-badge&logoColor=white"
+      alt="Antigravity"
+    />
+  </a>
+
+</p>
 </td>
 </tr>
 </table>
