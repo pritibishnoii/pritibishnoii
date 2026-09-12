@@ -624,7 +624,6 @@ high-quality animations.
 </p>
 
 </td>
-</tr>
 
 <td width="50%" valign="top">
 
@@ -671,7 +670,6 @@ color-coded categories, clean UI and responsive design.
 </p>
 
 </td>
-
 </tr>
 
 <tr>
