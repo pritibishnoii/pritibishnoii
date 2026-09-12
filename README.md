@@ -58,12 +58,11 @@ Conversational AI, Voice AI, and MCP</b>.
 <br/>
 
 <h2>🧠 What I Work With</h2>
-<h2>🧠 What I Work With</h2>
 
 <table width="100%">
   <tr>
-    <!-- FRONTEND -->
-    <td width="50%" valign="top">
+   
+  <td width="50%" valign="top">
 
    <h3>💻 Frontend</h3>
 
@@ -91,7 +90,7 @@ Conversational AI, Voice AI, and MCP</b>.
 
  </td>
 
-    <!-- BACKEND -->
+  
   <td width="50%" valign="top">
 
   <h3>⚙️ Backend</h3>
@@ -119,8 +118,8 @@ Conversational AI, Voice AI, and MCP</b>.
   </tr>
 
   <tr>
-    <!-- AI & LLM -->
-    <td width="50%" valign="top">
+
+  <td width="50%" valign="top">
 
    <h3>🤖 AI & LLM</h3>
 
@@ -149,7 +148,6 @@ Conversational AI, Voice AI, and MCP</b>.
 
    </td>
 
-    <!-- AI CONCEPTS -->
   <td width="50%" valign="top">
 
   <h3>🔗 AI Concepts</h3>
@@ -180,9 +178,8 @@ Conversational AI, Voice AI, and MCP</b>.
   </tr>
 
   <tr>
-    <!-- UI & ANIMATION -->
     <td width="50%" valign="top">
-      <h3>🎨 UI & Animation</h3>
+  <h3>🎨 UI & Animation</h3>
 
    <p>
         <a href="https://tailwindcss.com/" target="_blank">
@@ -205,7 +202,7 @@ Conversational AI, Voice AI, and MCP</b>.
 
   </td>
 
-    <!-- TOOLS -->
+
  <td width="50%" valign="top">
 
   <h3>🛠️ Tools & Platforms</h3>
