@@ -59,11 +59,14 @@ I'm especially interested in the intersection of **Full-Stack Engineering × Gen
 <h3>🤖 InterviewIQ.AI</h3>
 
 <p align="center">
+
+<a href="https://interviewiq-app-gqwr.onrender.com/" target="_blank">
   <img
     src="https://raw.githubusercontent.com/pritibishnoii/my-portfolio/master/public/projects/InterviewIQ-chat.png"
     alt="InterviewIQ.AI"
     width="100%"
   />
+</a>
 </p>
 
 <p>
