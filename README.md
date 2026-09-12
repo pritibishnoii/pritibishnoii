@@ -113,11 +113,13 @@ AI-powered interview evaluation and personalized feedback.
 <h3>🧠 AI-Powered Portfolio</h3>
 
 <p align="center">
+  <a href="https://preetiportfolio.vercel.app/" target="_blank">
   <img
-    src="public/projects/protfolio.png"
+    src="https://raw.githubusercontent.com/pritibishnoii/my-portfolio/master/public/projects/protfolio.png"
     alt="AI Portfolio"
     width="100%"
   />
+  </a>
 </p>
 
 <p>
@@ -166,11 +168,13 @@ my skills, projects and experience.
 <h3>💬 Streamify</h3>
 
 <p align="center">
+  <a href="https://streamify-frontend-khxc.onrender.com/" target="_blank">
   <img
-    src="public/projects/chat-app.png"
+    src="https://raw.githubusercontent.com/pritibishnoii/my-portfolio/master/public/projects/chat-app.png"
     alt="Streamify"
     width="100%"
   />
+  </a>
 </p>
 
 <p>
@@ -217,11 +221,13 @@ and WebRTC-powered video calling.
 <h3>🛒 QuickKart</h3>
 
 <p align="center">
+  <a href="https://storeuiii.vercel.app/" target="_blank">
   <img
-    src="public/projects/storeui.png"
+    src="https://raw.githubusercontent.com/pritibishnoii/my-portfolio/master/public/projects/storeui.png"
     alt="QuickKart"
     width="100%"
   />
+  </a>
 </p>
 
 <p>
@@ -272,11 +278,13 @@ authenticated user experiences.
 <h3>🧩 Quizee Builder</h3>
 
 <p align="center">
+  <a href="https://quizee-builder.vercel.app/" target="_blank">
   <img
-    src="public/projects/quiz.png"
+    src="https://raw.githubusercontent.com/pritibishnoii/my-portfolio/master/public/projects/quiz.png"
     alt="Quizee Builder"
     width="100%"
   />
+  </a>
 </p>
 
 <p>
@@ -319,11 +327,13 @@ managing, sharing and analyzing quizzes.
 <h3>📖 StoryApp</h3>
 
 <p align="center">
+  <a href="https://storyapp-nine.vercel.app/" target="_blank">
   <img
-    src="public/projects/story.png"
+    src="https://raw.githubusercontent.com/pritibishnoii/my-portfolio/master/public/projects/story.png"
     alt="StoryApp"
     width="100%"
   />
+  </a>
 </p>
 
 <p>
@@ -371,11 +381,13 @@ browsing.
 <h3>💻 CodePlay</h3>
 
 <p align="center">
+  <a href="https://codeplay-edtech-project.vercel.app/" target="_blank">
   <img
-    src="public/projects/code.png"
+    src="https://raw.githubusercontent.com/pritibishnoii/my-portfolio/master/public/projects/code.png"
     alt="CodePlay"
     width="100%"
   />
+  </a>
 </p>
 
 <p>
@@ -418,11 +430,13 @@ and educators.
 <h3>📝 Pocket Notes</h3>
 
 <p align="center">
+  <a href="https://notes-pocket-app.vercel.app/" target="_blank">
   <img
-    src="public/projects/note.png"
+    src="https://raw.githubusercontent.com/pritibishnoii/my-portfolio/master/public/projects/note.png"
     alt="Pocket Notes"
     width="100%"
   />
+  </a>
 </p>
 
 <p>
@@ -468,8 +482,9 @@ color-coded categories, clean UI and responsive design.
 <h3>🎬 Super App</h3>
 
 <p align="center">
+  <a href="https://movie-app-alpha-cyan.vercel.app/" target="_blank"> 
   <img
-    src="public/projects/movie.png"
+    src="https://raw.githubusercontent.com/pritibishnoii/my-portfolio/master/public/projects/movie.png"
     alt="Super App"
     width="100%"
   />
@@ -513,11 +528,13 @@ interface for discovering and viewing movie information.
 <h3>💳 Razorpay Clone</h3>
 
 <p align="center">
+  <a href="https://razorypay.netlify.app/" target="_blank">
   <img
-    src="public/projects/razorpay.png"
+    src="https://raw.githubusercontent.com/pritibishnoii/my-portfolio/master/public/projects/razorpay.png"
     alt="Razorpay Clone"
     width="100%"
   />
+  </a>
 </p>
 
 <p>
@@ -564,11 +581,13 @@ polished UI implementation.
 <h3>🍸 Cacktail</h3>
 
 <p align="center">
+  <a href="https://cacktail-landing-page.vercel.app/" target="_blank">
   <img
-    src="public/projects/cacktail.png"
+    src="https://raw.githubusercontent.com/pritibishnoii/my-portfolio/master/public/projects/cacktail.png"
     alt="Cacktail Landing Page"
     width="100%"
   />
+  </a>
 </p>
 
 <p>
