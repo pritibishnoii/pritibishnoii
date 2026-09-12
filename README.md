@@ -65,9 +65,9 @@ Conversational AI, Voice AI, and MCP</b>.
     <!-- FRONTEND -->
     <td width="50%" valign="top">
 
-      <h3>💻 Frontend</h3>
+   <h3>💻 Frontend</h3>
 
-      <p>
+   <p>
         <a href="https://react.dev/" target="_blank">
           <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="125">
         </a>
@@ -89,14 +89,14 @@ Conversational AI, Voice AI, and MCP</b>.
         </a>
       </p>
 
-    </td>
+ </td>
 
     <!-- BACKEND -->
-    <td width="50%" valign="top">
+  <td width="50%" valign="top">
 
-      <h3>⚙️ Backend</h3>
+  <h3>⚙️ Backend</h3>
 
-      <p>
+   <p>
         <a href="https://nodejs.org/" target="_blank">
           <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" width="125">
         </a>
@@ -115,16 +115,16 @@ Conversational AI, Voice AI, and MCP</b>.
         </a>
       </p>
 
-    </td>
+  </td>
   </tr>
 
   <tr>
     <!-- AI & LLM -->
     <td width="50%" valign="top">
 
-      <h3>🤖 AI & LLM</h3>
+   <h3>🤖 AI & LLM</h3>
 
-      <p>
+  <p>
         <a href="https://openai.com/" target="_blank">
           <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" width="125">
         </a>
@@ -147,14 +147,13 @@ Conversational AI, Voice AI, and MCP</b>.
         </a>
       </p>
 
-    </td>
+   </td>
 
     <!-- AI CONCEPTS -->
-    <td width="50%" valign="top">
+  <td width="50%" valign="top">
 
-      <h3>🔗 AI Concepts</h3>
-
-      <p>
+  <h3>🔗 AI Concepts</h3>
+  <p>
         <a href="https://www.pinecone.io/learn/retrieval-augmented-generation/" target="_blank">
           <img src="https://img.shields.io/badge/RAG-00A67E?style=for-the-badge&logo=databricks&logoColor=white" width="125">
         </a>
@@ -177,16 +176,15 @@ Conversational AI, Voice AI, and MCP</b>.
         </a>
       </p>
 
-    </td>
+   </td>
   </tr>
 
   <tr>
     <!-- UI & ANIMATION -->
     <td width="50%" valign="top">
-
       <h3>🎨 UI & Animation</h3>
 
-      <p>
+   <p>
         <a href="https://tailwindcss.com/" target="_blank">
           <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" width="125">
         </a>
@@ -205,14 +203,14 @@ Conversational AI, Voice AI, and MCP</b>.
         </a>
       </p>
 
-    </td>
+  </td>
 
     <!-- TOOLS -->
-    <td width="50%" valign="top">
+ <td width="50%" valign="top">
 
-      <h3>🛠️ Tools & Platforms</h3>
+  <h3>🛠️ Tools & Platforms</h3>
 
-      <p>
+   <p>
         <a href="https://git-scm.com/" target="_blank">
           <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" width="125">
         </a>
@@ -239,7 +237,7 @@ Conversational AI, Voice AI, and MCP</b>.
         </a>
       </p>
 
-    </td>
+   </td>
   </tr>
 </table>
 
