@@ -24,6 +24,140 @@ My portfolio isn't a static page — it's a live AI assistant built with Next.js
 ---
 
 ### 🚀 Featured Projects
+### 🚀 Featured Projects
+
+A collection of my full-stack and AI-focused projects — from MERN applications to AI-powered developer experiences.
+
+---
+
+## 🤖 AI-Powered Portfolio Assistant
+
+<p align="center">
+  <img src="https://preetiportfolio.vercel.app/og-image.png" alt="AI-Powered Portfolio Assistant" width="800"/>
+</p>
+
+An AI-powered portfolio that goes beyond a traditional resume website. Visitors can interact with an AI assistant to learn about my skills, projects, experience, and background in real time.
+
+Built with a modern Next.js architecture and powered by the Groq API with Llama 3.3, the project demonstrates practical LLM integration, prompt engineering, and AI-powered conversational UI.
+
+**Tech Stack**
+
+`Next.js` `TypeScript` `Tailwind CSS` `Groq API` `Llama 3.3` `Prompt Engineering`
+
+<p align="center">
+  <a href="https://preetiportfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Live_Demo-000?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/pritibishnoii/my-portfolio">
+    <img src="https://img.shields.io/badge/💻%20Source_Code-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## 📖 Story App
+
+<p align="center">
+  <img src="https://via.placeholder.com/1200x650?text=Story+App" alt="Story App" width="800"/>
+</p>
+
+A full-stack storytelling platform where users can create and share stories through a responsive web application.
+
+The application includes secure JWT authentication, validated REST APIs, form handling, notifications, and a complete MERN-based frontend/backend architecture.
+
+**Tech Stack**
+
+`React` `Node.js` `Express.js` `MongoDB` `JWT` `Formik` `React Toastify`
+
+<p align="center">
+  <a href="https://storyapp-nine.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Live_Demo-000?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/pritibishnoii/blog-app">
+    <img src="https://img.shields.io/badge/💻%20Source_Code-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## 🎓 MentorLoom
+
+<p align="center">
+  <img src="https://via.placeholder.com/1200x650?text=MentorLoom" alt="MentorLoom" width="800"/>
+</p>
+
+A full-stack mentoring platform designed to connect learners and mentors through a modern web interface.
+
+The project focuses on reusable React components, API integration, authentication, and scalable backend architecture.
+
+**Tech Stack**
+
+`React` `Node.js` `Express.js` `MongoDB` `REST API` `JWT`
+
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/🌐%20Live_Demo-000?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/pritibishnoii/mentorLoom-frontend">
+    <img src="https://img.shields.io/badge/💻%20Source_Code-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## 💬 AI Chatbot
+
+<p align="center">
+  <img src="https://via.placeholder.com/1200x650?text=AI+Chatbot" alt="AI Chatbot" width="800"/>
+</p>
+
+An AI chatbot application exploring conversational interfaces and LLM API integration.
+
+The project includes a chat-based frontend, backend API layer, message handling, and integration with an LLM provider.
+
+**Tech Stack**
+
+`JavaScript` `HTML` `CSS` `Node.js` `Express.js` `LLM API`
+
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/🌐%20Live_Demo-000?style=for-the-badge" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/💻%20Source_Code-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## 🃏 Quick Card
+
+<p align="center">
+  <img src="https://via.placeholder.com/1200x650?text=Quick+Card" alt="Quick Card" width="800"/>
+</p>
+
+A web application project focused on creating a clean and interactive card-based user experience.
+
+**Tech Stack**
+
+`React` `JavaScript` `CSS`
+
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/🌐%20Live_Demo-000?style=for-the-badge" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/💻%20Source_Code-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+### 📌 More Projects
+
+I continuously build and experiment with full-stack and AI-powered applications.
+
+👉 Explore all my repositories on [GitHub](https://github.com/pritibishnoii).
 
 **[AI-Powered Portfolio Assistant](https://preetiportfolio.vercel.app/)**
 A production AI assistant embedded in my personal portfolio — built with Next.js, TypeScript, and Tailwind CSS, powered by the Groq API (Llama 3.3). Ask it about my skills, projects, or experience and it answers in real time. Fully deployed, not a mockup.
