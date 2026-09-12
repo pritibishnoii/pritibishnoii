@@ -57,41 +57,48 @@ Conversational AI, Voice AI, and MCP</b>.
 
 <br/>
 
-<h3>🧠 What I Work With</h3>
+<h2>🧠 What I Work With</h2>
 
 <table width="100%">
 <tr>
 
-<!-- ================= FRONTEND ================= -->
-
+<!-- FRONTEND -->
 <td width="50%" valign="top">
 
 <h3>💻 Frontend</h3>
 
-<p align="center">
+<p align="left">
 
 <a href="https://react.dev/" target="_blank">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+width="120" />
 </a>
 
 <a href="https://nextjs.org/" target="_blank">
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"
+width="120" />
 </a>
 
 <a href="https://www.typescriptlang.org/" target="_blank">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"
+width="120" />
 </a>
 
+<br/>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+width="120" />
 </a>
 
 <a href="https://tailwindcss.com/" target="_blank">
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"
+width="120" />
 </a>
 
 <a href="https://redux-toolkit.js.org/" target="_blank">
-<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit"/>
+<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"
+width="120" />
 </a>
 
 </p>
@@ -99,32 +106,38 @@ Conversational AI, Voice AI, and MCP</b>.
 </td>
 
 
-<!-- ================= BACKEND ================= -->
-
+<!-- BACKEND -->
 <td width="50%" valign="top">
 
 <h3>⚙️ Backend</h3>
 
-<p align="center">
+<p align="left">
 
 <a href="https://nodejs.org/" target="_blank">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"
+width="120" />
 </a>
 
 <a href="https://expressjs.com/" target="_blank">
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
+width="120" />
 </a>
 
+<br/>
+
 <a href="https://www.mongodb.com/" target="_blank">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"
+width="120" />
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/REST" target="_blank">
-<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API"/>
+<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"
+width="120" />
 </a>
 
 <a href="https://jwt.io/" target="_blank">
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"
+width="120" />
 </a>
 
 </p>
@@ -134,38 +147,47 @@ Conversational AI, Voice AI, and MCP</b>.
 </tr>
 
 
+<!-- AI -->
 <tr>
-
-<!-- ================= AI & LLM ================= -->
 
 <td width="50%" valign="top">
 
 <h3>🤖 AI & LLM</h3>
 
-<p align="center">
+<p align="left">
 
 <a href="https://openai.com/" target="_blank">
-<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white"
+width="120" />
 </a>
 
 <a href="https://openrouter.ai/" target="_blank">
-<img src="https://img.shields.io/badge/OpenRouter-6467F2?style=for-the-badge&logo=openrouter&logoColor=white" alt="OpenRouter"/>
+<img src="https://img.shields.io/badge/OpenRouter-6467F2?style=for-the-badge&logo=openrouter&logoColor=white"
+width="120" />
 </a>
 
 <a href="https://groq.com/" target="_blank">
-<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white"
+width="120" />
 </a>
 
+<br/>
+
 <a href="https://vapi.ai/" target="_blank">
-<img src="https://img.shields.io/badge/Vapi-6C47FF?style=for-the-badge&logoColor=white" alt="Vapi"/>
+<img src="https://img.shields.io/badge/Vapi-6C47FF?style=for-the-badge&logoColor=white"
+width="120" />
 </a>
 
 <a href="https://platform.openai.com/docs" target="_blank">
-<img src="https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLM APIs"/>
+<img src="https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge&logo=openai&logoColor=white"
+width="120" />
 </a>
 
+<br/>
+
 <a href="https://platform.openai.com/docs/guides/prompt-engineering" target="_blank">
-<img src="https://img.shields.io/badge/Prompt_Engineering-FFB000?style=for-the-badge&logo=openai&logoColor=000000" alt="Prompt Engineering"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-FFB000?style=for-the-badge&logo=openai&logoColor=black"
+width="150" />
 </a>
 
 </p>
@@ -173,36 +195,45 @@ Conversational AI, Voice AI, and MCP</b>.
 </td>
 
 
-<!-- ================= AI CONCEPTS ================= -->
-
+<!-- AI CONCEPTS -->
 <td width="50%" valign="top">
 
 <h3>🔗 AI Concepts</h3>
 
-<p align="center">
+<p align="left">
 
 <a href="https://www.pinecone.io/learn/retrieval-augmented-generation/" target="_blank">
-<img src="https://img.shields.io/badge/RAG-00A67E?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG"/>
+<img src="https://img.shields.io/badge/RAG-00A67E?style=for-the-badge&logo=databricks&logoColor=white"
+width="120" />
 </a>
 
 <a href="https://platform.openai.com/docs/guides/agents" target="_blank">
-<img src="https://img.shields.io/badge/AI_Agents-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents"/>
+<img src="https://img.shields.io/badge/AI_Agents-8B5CF6?style=for-the-badge&logo=openai&logoColor=white"
+width="120" />
 </a>
 
+<br/>
+
 <a href="https://www.ibm.com/think/topics/agentic-ai" target="_blank">
-<img src="https://img.shields.io/badge/Agentic_AI-FF6B35?style=for-the-badge&logo=ai&logoColor=white" alt="Agentic AI"/>
+<img src="https://img.shields.io/badge/Agentic_AI-FF6B35?style=for-the-badge&logo=ai&logoColor=white"
+width="120" />
 </a>
 
 <a href="https://n8n.io/" target="_blank">
-<img src="https://img.shields.io/badge/Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="Automation"/>
+<img src="https://img.shields.io/badge/Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"
+width="120" />
 </a>
 
+<br/>
+
 <a href="https://vapi.ai/" target="_blank">
-<img src="https://img.shields.io/badge/Voice_AI-6C47FF?style=for-the-badge&logoColor=white" alt="Voice AI"/>
+<img src="https://img.shields.io/badge/Voice_AI-6C47FF?style=for-the-badge&logoColor=white"
+width="120" />
 </a>
 
 <a href="https://modelcontextprotocol.io/" target="_blank">
-<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP"/>
+<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white"
+width="120" />
 </a>
 
 </p>
@@ -212,34 +243,40 @@ Conversational AI, Voice AI, and MCP</b>.
 </tr>
 
 
+<!-- UI -->
 <tr>
-
-<!-- ================= UI & ANIMATION ================= -->
 
 <td width="50%" valign="top">
 
 <h3>🎨 UI & Animation</h3>
 
-<p align="center">
+<p align="left">
 
 <a href="https://tailwindcss.com/" target="_blank">
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"
+width="120" />
 </a>
 
 <a href="https://gsap.com/" target="_blank">
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=000000" alt="GSAP"/>
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black"
+width="120" />
 </a>
 
+<br/>
+
 <a href="https://motion.dev/" target="_blank">
-<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"
+width="120" />
 </a>
 
 <a href="https://ui.shadcn.com/" target="_blank">
-<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui"/>
+<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"
+width="120" />
 </a>
 
 <a href="https://mui.com/" target="_blank">
-<img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI"/>
+<img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white"
+width="120" />
 </a>
 
 </p>
@@ -247,44 +284,52 @@ Conversational AI, Voice AI, and MCP</b>.
 </td>
 
 
-<!-- ================= TOOLS ================= -->
-
+<!-- TOOLS -->
 <td width="50%" valign="top">
 
 <h3>🛠️ Tools & Platforms</h3>
 
-<p align="center">
+<p align="left">
 
 <a href="https://git-scm.com/" target="_blank">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
+width="120" />
 </a>
 
 <a href="https://github.com/pritibishnoii" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+width="120" />
 </a>
 
+<br/>
+
 <a href="https://www.postman.com/" target="_blank">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"
+width="120" />
 </a>
 
 <a href="https://www.figma.com/" target="_blank">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
+width="120" />
 </a>
 
+<br/>
+
 <a href="https://code.visualstudio.com/" target="_blank">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"
+width="120" />
 </a>
 
 <a href="https://vercel.com/" target="_blank">
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"
+width="120" />
 </a>
+
+<br/>
 
 <a href="https://claude.ai/" target="_blank">
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
-</a>
-
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/Antigravity-6366F1?style=for-the-badge&logoColor=white" alt="Antigravity"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"
+width="120" />
 </a>
 
 </p>
@@ -294,7 +339,6 @@ Conversational AI, Voice AI, and MCP</b>.
 </tr>
 
 </table>
-
 <br/>
 
 <h3>🎯 Currently Exploring</h3>
