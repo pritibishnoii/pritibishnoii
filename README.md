@@ -269,6 +269,7 @@ authenticated user experiences.
 
 </tr>
 
+
 <tr>
 
 <!-- ================= PROJECT 5 ================= -->
@@ -622,6 +623,62 @@ high-quality animations.
 
 </td>
 
+
+<tr>
+  
+</tr>
+<!-- ===============PROJECT 12 ===================-->
+<td width="50%" valign="top">
+
+<h3>🎤 SpeakHire</h3>
+
+<p align="center">
+  <a href="https://speak-hire-livid.vercel.app/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/pritibishnoii/speakHire/main/public/speak-hire.png"
+      alt="SpeakHire"
+      width="100%"
+    />
+  </a>
+</p>
+
+<p>
+AI-powered interview preparation platform designed to help
+developers practice and improve their interview skills through
+an interactive speaking-based experience.
+</p>
+
+<p>
+🔹 AI-powered interview practice<br/>
+🔹 Interactive speaking experience<br/>
+🔹 Interview-focused user experience<br/>
+🔹 Modern and responsive interface<br/>
+</p>
+
+<p>
+<b>Tech:</b><br/>
+<code>Next.js</code>
+<code>TypeScript</code>
+<code>AI</code>
+<code>Tailwind CSS</code>
+</p>
+
+<p align="center">
+  <a href="https://speak-hire-livid.vercel.app/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge"
+    />
+  </a>
+
+  <a href="https://github.com/pritibishnoii/speakHire" target="_blank">
+    <img
+      src="https://img.shields.io/badge/💻%20Source-181717?style=for-the-badge&logo=github"
+    />
+  </a>
+</p>
+
+</td>
+
 <td width="50%" valign="top">
 
 <h3>✨ More Projects</h3>
@@ -649,6 +706,8 @@ high-quality animations.
 </td>
 
 </tr>
+
+
 
 </table>
 
