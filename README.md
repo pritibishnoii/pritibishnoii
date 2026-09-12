@@ -10,38 +10,243 @@
 
 ---
 
-### 👨‍💻 About Me
+<!-- ================= ABOUT ME ================= -->
 
-I'm a **Full Stack Developer & AI Developer** passionate about building modern, scalable, and intelligent web applications. My foundation is in the **MERN ecosystem**, and I'm focused on evolving from simply *using AI tools* to **engineering real AI-powered products**.
+<h2 align="center">👨‍💻 About Me</h2>
 
-I work across the full application stack — from building responsive interfaces with **React, Next.js, TypeScript, and Tailwind CSS** to developing scalable backend systems with **Node.js, Express.js, MongoDB, and REST APIs**.
+<table>
+<tr>
+<td width="100%" valign="top">
 
-On the AI side, I enjoy turning LLM capabilities into real product experiences. I've worked with **OpenAI, OpenRouter, Groq, and Vapi** to explore and build conversational interfaces, AI assistants, voice-based experiences, prompt-driven workflows, and intelligent application features.
+<h3>🚀 Full Stack Developer × 🤖 AI Developer</h3>
 
-One project I'm particularly proud of is my **AI-powered portfolio assistant**, built with **Next.js + TypeScript + Groq (Llama 3.3)**. Instead of being a traditional static portfolio, it allows visitors to interact with an AI assistant and learn about my skills, projects, experience, and background.
+<p>
+I'm a <b>Full Stack Developer & AI Developer</b> passionate about building
+modern, scalable, and intelligent web applications.
+My foundation is in the <b>MERN ecosystem</b>, and I'm focused on evolving
+from simply <i>using AI tools</i> to <b>engineering real AI-powered products</b>.
+</p>
 
-I'm especially interested in the intersection of **Full-Stack Engineering × Generative AI × Agentic Systems**, and I'm continuously exploring **LLM integration, RAG, AI agents, automation, conversational AI, and voice AI** to build applications that are not only functional, but genuinely intelligent.
+<p>
+I work across the complete application stack — building responsive interfaces
+with <b>React, Next.js, TypeScript, and Tailwind CSS</b>, while developing
+scalable backend systems using <b>Node.js, Express.js, MongoDB, and REST APIs</b>.
+</p>
 
-### 🚀 What I Work With
+<p>
+On the AI side, I enjoy turning LLM capabilities into real product experiences.
+I've worked with <b>OpenAI, OpenRouter, Groq, and Vapi</b> to build and explore
+AI assistants, conversational interfaces, voice experiences, prompt-driven
+workflows, and intelligent application features.
+</p>
 
-- 💻 **Frontend:** React.js, Next.js, TypeScript, JavaScript, Tailwind CSS, Redux Toolkit
-- ⚙️ **Backend:** Node.js, Express.js, MongoDB, REST APIs, JWT
-- 🧠 **AI & LLMs:** OpenAI, OpenRouter, Groq, Vapi, LLM APIs, Prompt Engineering
-- 🔗 **AI Concepts:** RAG, AI Agents, Agentic Workflows, Conversational AI, Voice AI ,MCP
-- 🎨 **UI & Animation:** Tailwind CSS, GSAP, Framer Motion,shadcn,MUI 
-- 🛠️ **Tools:** Git, GitHub, Postman, Figma, VS Code, Vercel ,claude ,antigravity
+<p>
+One project I'm particularly proud of is my
+<b>AI-powered portfolio assistant</b>, built with
+<b>Next.js + TypeScript + Groq</b>. Instead of being a traditional static
+portfolio, it allows visitors to interact with an AI assistant and learn
+about my skills, projects, experience, and background.
+</p>
 
-### 🎯 Currently Exploring
+<p>
+I'm especially interested in the intersection of
+<b>Full-Stack Engineering × Generative AI × Agentic Systems</b>.
+I'm continuously exploring <b>LLM integration, RAG, AI Agents, Automation,
+Conversational AI, Voice AI, and MCP</b>.
+</p>
 
-- 🔭 **Building:** AI-powered features and intelligent workflows on top of full-stack applications
-- 🌱 **Learning:** RAG, Agentic AI, AI Agents, Voice AI, and LLM application architecture
-- 🧩 **Experimenting with:** OpenAI, OpenRouter, Groq & Vapi
-- 💡 **Interested in:** AI-native products, automation, intelligent developer tools, and scalable web applications
-- 💬 **Ask me about:** React, Next.js, Node.js, MongoDB, TypeScript, LLM integration, or my AI projects
-- 📫 **Reach me:** `priti12bishnoi@gmail.com`
+<br/>
 
-> 🎯 **My Goal:** Build the next generation of applications where **great software engineering meets intelligent AI experiences.** 🚀
+<h3>🧠 What I Work With</h3>
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h4>💻 Frontend</h4>
+
+<p>
+<code>React.js</code>
+<code>Next.js</code>
+<code>TypeScript</code>
+<code>JavaScript</code>
+<code>Tailwind CSS</code>
+<code>Redux Toolkit</code>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h4>⚙️ Backend</h4>
+
+<p>
+<code>Node.js</code>
+<code>Express.js</code>
+<code>MongoDB</code>
+<code>REST APIs</code>
+<code>JWT</code>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h4>🤖 AI & LLM</h4>
+
+<p>
+<code>OpenAI</code>
+<code>OpenRouter</code>
+<code>Groq</code>
+<code>Vapi</code>
+<code>LLM APIs</code>
+<code>Prompt Engineering</code>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h4>🔗 AI Concepts</h4>
+
+<p>
+<code>RAG</code>
+<code>AI Agents</code>
+<code>Agentic AI</code>
+<code>Automation</code>
+<code>Voice AI</code>
+<code>MCP</code>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h4>🎨 UI & Animation</h4>
+
+<p>
+<code>Tailwind CSS</code>
+<code>GSAP</code>
+<code>Framer Motion</code>
+<code>GSAP Animation</code>
+<code>shadcn/ui</code>
+<code>MUI</code>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h4>🛠️ Tools</h4>
+
+<p>
+<code>Git</code>
+<code>GitHub</code>
+<code>Postman</code>
+<code>Figma</code>
+<code>VS Code</code>
+<code>Vercel</code>
+<code>Claude</code>
+<code>Antigravity</code>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<h3>🎯 Currently Exploring</h3>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h4>🔭 Building</h4>
+
+<p>
+AI-powered features and intelligent workflows
+on top of modern full-stack applications.
+</p>
+
+<h4>🌱 Learning</h4>
+
+<p>
+RAG, Agentic AI, AI Agents, Voice AI,
+MCP and LLM application architecture.
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h4>🧩 Experimenting With</h4>
+
+<p>
+OpenAI, OpenRouter, Groq, Vapi
+and modern LLM APIs.
+</p>
+
+<h4>💡 Interested In</h4>
+
+<p>
+AI-native products, automation, intelligent
+developer tools and scalable applications.
+</p>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <a href="https://preetiportfolio.vercel.app/">
+    <img
+      src="https://img.shields.io/badge/🤖%20Talk%20to%20My%20AI%20Assistant-000000?style=for-the-badge"
+      alt="Talk to my AI Assistant"
+    />
+  </a>
+
+  <a href="https://github.com/pritibishnoii">
+    <img
+      src="https://img.shields.io/badge/💻%20Explore%20My%20GitHub-181717?style=for-the-badge&logo=github"
+      alt="Explore GitHub"
+    />
+  </a>
+
+  <a href="mailto:priti12bishnoi@gmail.com">
+    <img
+      src="https://img.shields.io/badge/📩%20Let's%20Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+</p>
+
+<br/>
+
+<blockquote align="center">
+
+<h3>🎯 My Goal</h3>
+
+<p>
+<b>
+Build the next generation of applications where
+great software engineering meets intelligent AI experiences.
+</b>
+</p>
+
+<p>🚀 Full Stack Engineering &nbsp; × &nbsp; 🤖 Generative AI &nbsp; × &nbsp; 🧠 Agentic Systems</p>
+
+</blockquote>
+
+</td>
+</tr>
+</table>
 ### 🚀 Featured Projects
 <p align="center">
   <b>A collection of full-stack, AI-powered, real-time and frontend projects I've built.</b>
