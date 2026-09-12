@@ -30,7 +30,7 @@
 
  
   <a href="https://www.linkedin.com/in/priti-bishnoi/">
-         <img
+     <img
            src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"
            alt="linkedin"
            />
