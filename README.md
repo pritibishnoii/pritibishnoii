@@ -43,460 +43,592 @@ I'm especially interested in the intersection of **Full-Stack Engineering × Gen
 > 🎯 **My Goal:** Build the next generation of applications where **great software engineering meets intelligent AI experiences.** 🚀
 
 ### 🚀 Featured Projects
-
-A collection of my full-stack and AI-focused projects --- from MERN
-applications and real-time communication to AI-powered developer tools.
-
-🤖 InterviewIQ.AI --- AI Interview Preparation Platform
+## 🚀 Featured Projects
 
 <p align="center">
-
-<img src="https://github.com/pritibishnoii/my-portfolio/blob/master/public/projects/InterviewIQ-chat.png" alt="InterviewIQ.AI" width="900"/>
-
+  <b>A collection of full-stack, AI-powered, real-time and frontend projects I've built.</b>
 </p>
 
-An AI-powered mock interview platform designed to help developers
-practice role-specific technical interviews. It includes dynamic
-AI-generated questions, personalized interview evaluation, interview
-history, secure authentication, and premium subscription features.
+<table>
+<tr>
 
-✨ Highlights
+<!-- ================= PROJECT 1 ================= -->
 
-AI-generated, role-specific technical interview questions
+<td width="50%" valign="top">
 
-AI-powered interview evaluation and personalized feedback
-
-Firebase Authentication with Google Sign-In
-
-Role-based user management
-
-Interview history and performance tracking
-
-Razorpay payment integration for premium subscriptions
-
-Credit management and premium feature access
-
-Responsive UI built with React and Tailwind CSS
-
-Tech Stack: React.js Node.js Express.js MongoDB
-Tailwind CSS Firebase Auth OpenRouter API Razorpay
+<h3>🤖 InterviewIQ.AI</h3>
 
 <p align="center">
-
-<a href="https://interviewiq-app-gqwr.onrender.com/">{=html}
-<img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Project-00C853?style=for-the-badge"/>{=html}
-</a>{=html}
-<a href="https://github.com/pritibishnoii/InterviewIQ-app">{=html}
-<img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github"/>{=html}
-</a>{=html}
-
+  <img
+    src="https://raw.githubusercontent.com/pritibishnoii/my-portfolio/master/public/projects/InterviewIQ-chat.png"
+    alt="InterviewIQ.AI"
+    width="100%"
+  />
 </p>
 
-🧠 AI-Powered Portfolio
+<p>
+AI-powered mock interview platform that generates
+role-specific technical questions and provides
+AI-powered interview evaluation and personalized feedback.
+</p>
+
+<p>
+🔹 Firebase Google Authentication<br/>
+🔹 AI-generated interview questions<br/>
+🔹 AI-powered evaluation & feedback<br/>
+🔹 Interview history<br/>
+🔹 Razorpay premium subscriptions<br/>
+🔹 Credit management
+</p>
+
+<p>
+<b>Tech:</b><br/>
+<code>React</code>
+<code>Node.js</code>
+<code>Express</code>
+<code>MongoDB</code>
+<code>OpenRouter</code>
+<code>Firebase</code>
+<code>Razorpay</code>
+</p>
 
 <p align="center">
-
-<img src="public/projects/protfolio.png" alt="AI-Powered Portfolio" width="900"/>{=html}
-
+  <a href="https://interviewiq-app-gqwr.onrender.com/">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/pritibishnoii/InterviewIQ-app">
+    <img src="https://img.shields.io/badge/💻%20Source-181717?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
-A personal portfolio transformed into an interactive AI experience.
-Visitors can chat with an AI assistant to learn about my skills,
-projects, experience, and background.
+</td>
 
-The assistant is powered by Groq and uses Llama 3.3 to provide real-time
-responses based on my portfolio context.
+<!-- ================= PROJECT 2 ================= -->
 
-✨ Highlights
+<td width="50%" valign="top">
 
-ChatGPT-like portfolio assistant
-
-LLM integration using Groq API
-
-Prompt engineering
-
-Interactive conversational UI
-
-Project, skill, and experience context
-
-Responsive portfolio design
-
-Tech Stack: Next.js TypeScript Tailwind CSS Groq API
-Llama 3.3 Prompt Engineering
+<h3>🧠 AI-Powered Portfolio</h3>
 
 <p align="center">
-
-<a href="https://preetiportfolio.vercel.app/">{=html}
-<img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Project-00C853?style=for-the-badge"/>{=html}
-</a>{=html}
-<a href="https://github.com/pritibishnoii/my-portfolio">{=html}
-<img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github"/>{=html}
-</a>{=html}
-
+  <img
+    src="public/projects/protfolio.png"
+    alt="AI Portfolio"
+    width="100%"
+  />
 </p>
 
-💬 Streamify --- Real-Time Communication Platform
+<p>
+Interactive AI-powered portfolio with a ChatGPT-like
+assistant that allows visitors to ask questions about
+my skills, projects and experience.
+</p>
+
+<p>
+🔹 AI portfolio assistant<br/>
+🔹 Groq API integration<br/>
+🔹 Llama 3.3<br/>
+🔹 Prompt engineering<br/>
+🔹 Conversational UI<br/>
+🔹 Portfolio-aware responses
+</p>
+
+<p>
+<b>Tech:</b><br/>
+<code>Next.js</code>
+<code>TypeScript</code>
+<code>Tailwind CSS</code>
+<code>Groq</code>
+<code>Llama 3.3</code>
+</p>
 
 <p align="center">
-
-<img src="public/projects/chat-app.png" alt="Streamify" width="900"/>{=html}
-
+  <a href="https://preetiportfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/pritibishnoii/my-portfolio">
+    <img src="https://img.shields.io/badge/💻%20Source-181717?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
-A full-stack real-time communication platform featuring one-to-one
-messaging, online/offline presence, typing indicators, persistent chat
-history, and WebRTC-powered video calling.
+</td>
 
-✨ Highlights
+</tr>
 
-Real-time one-to-one messaging with Socket.IO
+<tr>
 
-Online/offline presence
+<!-- ================= PROJECT 3 ================= -->
 
-Typing indicators
+<td width="50%" valign="top">
 
-Persistent chat history
-
-WebRTC-powered video calling
-
-Responsive chat interface
-
-Media controls
-
-Optimized frontend state management
-
-Tech Stack: React Node.js Express.js MongoDB Socket.IO
-WebRTC Tailwind CSS
+<h3>💬 Streamify</h3>
 
 <p align="center">
-
-<a href="https://streamify-frontend-khxc.onrender.com/">{=html}
-<img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Project-00C853?style=for-the-badge"/>{=html}
-</a>{=html}
-<a href="https://github.com/pritibishnoii/streamify-frontend">{=html}
-<img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github"/>{=html}
-</a>{=html}
-
+  <img
+    src="public/projects/chat-app.png"
+    alt="Streamify"
+    width="100%"
+  />
 </p>
 
-🛒 QuickKart --- MERN E-Commerce Platform
+<p>
+Real-time communication platform with instant messaging,
+online presence, typing indicators, persistent chat history
+and WebRTC-powered video calling.
+</p>
+
+<p>
+🔹 Real-time messaging<br/>
+🔹 Online/offline presence<br/>
+🔹 Typing indicators<br/>
+🔹 Persistent chat history<br/>
+🔹 WebRTC video calling<br/>
+🔹 Media controls
+</p>
+
+<p>
+<b>Tech:</b><br/>
+<code>React</code>
+<code>Node.js</code>
+<code>Express</code>
+<code>MongoDB</code>
+<code>Socket.IO</code>
+<code>WebRTC</code>
+<code>Tailwind</code>
+</p>
 
 <p align="center">
-
-<img src="public/projects/storeui.png" alt="QuickKart" width="900"/>{=html}
-
+  <a href="https://streamify-frontend-khxc.onrender.com/">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/pritibishnoii/streamify-frontend">
+    <img src="https://img.shields.io/badge/💻%20Source-181717?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
-A full-stack e-commerce application for browsing products, managing a
-shopping cart, and handling authenticated user experiences.
+</td>
 
-✨ Highlights
+<!-- ================= PROJECT 4 ================= -->
 
-Product browsing and category filtering
+<td width="50%" valign="top">
 
-Shopping cart management
-
-Authentication
-
-Redux Toolkit state management
-
-RTK Query for API communication
-
-RESTful backend APIs
-
-Responsive product UI
-
-Tech Stack: React.js Vite Tailwind CSS Redux Toolkit
-RTK Query Node.js Express.js MongoDB
+<h3>🛒 QuickKart</h3>
 
 <p align="center">
-
-<a href="https://storeuiii.vercel.app/">{=html}
-<img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Project-00C853?style=for-the-badge"/>{=html}
-</a>{=html}
-<a href="https://github.com/pritibishnoii/storeuiii">{=html}
-<img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github"/>{=html}
-</a>{=html}
-
+  <img
+    src="public/projects/storeui.png"
+    alt="QuickKart"
+    width="100%"
+  />
 </p>
 
-🧩 Quizee Builder --- Quiz Creation Platform
+<p>
+Full-stack e-commerce application for browsing products,
+filtering categories, managing carts and handling
+authenticated user experiences.
+</p>
+
+<p>
+🔹 Product browsing<br/>
+🔹 Category filtering<br/>
+🔹 Shopping cart<br/>
+🔹 Authentication<br/>
+🔹 Redux state management<br/>
+🔹 RTK Query API integration
+</p>
+
+<p>
+<b>Tech:</b><br/>
+<code>React</code>
+<code>Vite</code>
+<code>Redux Toolkit</code>
+<code>RTK Query</code>
+<code>Node.js</code>
+<code>Express</code>
+<code>MongoDB</code>
+</p>
 
 <p align="center">
-
-<img src="public/projects/quiz.png" alt="Quizee Builder" width="900"/>{=html}
-
+  <a href="https://storeuiii.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/pritibishnoii/storeuiii">
+    <img src="https://img.shields.io/badge/💻%20Source-181717?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
-A MERN-based quiz and form creation platform where users can create
-quizzes, manage questions, share quizzes, and analyze quiz activity.
+</td>
 
-✨ Highlights
+</tr>
 
-Quiz creation and management
+<tr>
 
-Multiple question types
+<!-- ================= PROJECT 5 ================= -->
 
-Quiz sharing
+<td width="50%" valign="top">
 
-Real-time scoring and feedback
-
-Analytics dashboard
-
-Question-wise analytics
-
-MongoDB-backed data management
-
-Tech Stack: React Node.js Express.js MongoDB
+<h3>🧩 Quizee Builder</h3>
 
 <p align="center">
-
-<a href="https://quizee-builder.vercel.app/">{=html}
-<img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Project-00C853?style=for-the-badge"/>{=html}
-</a>{=html}
-<a href="https://github.com/pritibishnoii/quizee_builder">{=html}
-<img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github"/>{=html}
-</a>{=html}
-
+  <img
+    src="public/projects/quiz.png"
+    alt="Quizee Builder"
+    width="100%"
+  />
 </p>
 
-📖 StoryApp --- Storytelling Platform
+<p>
+MERN-based quiz creation platform for creating,
+managing, sharing and analyzing quizzes.
+</p>
+
+<p>
+🔹 Quiz creation<br/>
+🔹 Multiple question types<br/>
+🔹 Quiz sharing<br/>
+🔹 Real-time scoring<br/>
+🔹 Analytics dashboard<br/>
+🔹 Question-wise analytics
+</p>
+
+<p>
+<b>Tech:</b><br/>
+<code>React</code>
+<code>Node.js</code>
+<code>Express</code>
+<code>MongoDB</code>
+</p>
 
 <p align="center">
-
-<img src="public/projects/story.png" alt="StoryApp" width="900"/>{=html}
-
+  <a href="https://quizee-builder.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/pritibishnoii/quizee_builder">
+    <img src="https://img.shields.io/badge/💻%20Source-181717?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
-A creative MERN storytelling platform for writing, sharing, and
-discovering stories through category-based browsing and a clean user
-experience.
+</td>
 
-✨ Highlights
+<!-- ================= PROJECT 6 ================= -->
 
-Create and share stories
+<td width="50%" valign="top">
 
-Category-based browsing
-
-Rich-text storytelling experience
-
-Authentication
-
-REST API integration
-
-Responsive UI
-
-Tech Stack: React Node.js Express.js MongoDB
+<h3>📖 StoryApp</h3>
 
 <p align="center">
-
-<a href="https://storyapp-nine.vercel.app/">{=html}
-<img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Project-00C853?style=for-the-badge"/>{=html}
-</a>{=html}
-<a href="https://github.com/pritibishnoii/storyapp">{=html}
-<img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github"/>{=html}
-</a>{=html}
-
+  <img
+    src="public/projects/story.png"
+    alt="StoryApp"
+    width="100%"
+  />
 </p>
 
-💻 CodePlay --- EdTech Coding Platform
+<p>
+Creative MERN storytelling platform for writing,
+sharing and discovering stories through category-based
+browsing.
+</p>
+
+<p>
+🔹 Create & share stories<br/>
+🔹 Category-based browsing<br/>
+🔹 Rich-text experience<br/>
+🔹 Authentication<br/>
+🔹 REST APIs<br/>
+🔹 Responsive UI
+</p>
+
+<p>
+<b>Tech:</b><br/>
+<code>React</code>
+<code>Node.js</code>
+<code>Express</code>
+<code>MongoDB</code>
+</p>
 
 <p align="center">
-
-<img src="public/projects/code.png" alt="CodePlay" width="900"/>{=html}
-
+  <a href="https://storyapp-nine.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/pritibishnoii/storyapp">
+    <img src="https://img.shields.io/badge/💻%20Source-181717?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
-An EdTech web application designed around hands-on programming practice,
-giving students and educators an interactive environment to learn and
-experiment with code.
+</td>
 
-✨ Highlights
+</tr>
 
-Coding-focused learning experience
+<tr>
 
-Hands-on programming practice
+<!-- ================= PROJECT 7 ================= -->
 
-Interactive UI
+<td width="50%" valign="top">
 
-Student/educator-oriented workflow
-
-Full-stack MERN architecture
-
-Tech Stack: React Node.js Express.js MongoDB
+<h3>💻 CodePlay</h3>
 
 <p align="center">
-
-<a href="https://codeplay-edtech-project.vercel.app/">{=html}
-<img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Project-00C853?style=for-the-badge"/>{=html}
-</a>{=html}
-<a href="https://github.com/pritibishnoii/StudyNotion">{=html}
-<img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github"/>{=html}
-</a>{=html}
-
+  <img
+    src="public/projects/code.png"
+    alt="CodePlay"
+    width="100%"
+  />
 </p>
 
-📝 Pocket Notes
+<p>
+EdTech platform focused on hands-on programming practice
+with an interactive learning experience for students
+and educators.
+</p>
+
+<p>
+🔹 Coding practice<br/>
+🔹 Interactive learning UI<br/>
+🔹 Student-focused workflow<br/>
+🔹 Educator-focused features<br/>
+🔹 MERN architecture
+</p>
+
+<p>
+<b>Tech:</b><br/>
+<code>React</code>
+<code>Node.js</code>
+<code>Express</code>
+<code>MongoDB</code>
+</p>
 
 <p align="center">
-
-<img src="public/projects/note.png" alt="Pocket Notes" width="900"/>{=html}
-
+  <a href="https://codeplay-edtech-project.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/pritibishnoii/StudyNotion">
+    <img src="https://img.shields.io/badge/💻%20Source-181717?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
-A lightweight and intuitive note-taking application with color-coded
-categories and a clean, responsive interface.
+</td>
 
-✨ Highlights
+<!-- ================= PROJECT 8 ================= -->
 
-Create and manage notes
+<td width="50%" valign="top">
 
-Color-coded categories
-
-Clean UI
-
-Responsive design
-
-Redux-based state management
-
-Tech Stack: React CSS React Icons Redux
+<h3>📝 Pocket Notes</h3>
 
 <p align="center">
-
-<a href="https://notes-pocket-app.vercel.app/">{=html}
-<img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Project-00C853?style=for-the-badge"/>{=html}
-</a>{=html}
-<a href="https://github.com/pritibishnoii/notes-pocket-app">{=html}
-<img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github"/>{=html}
-</a>{=html}
-
+  <img
+    src="public/projects/note.png"
+    alt="Pocket Notes"
+    width="100%"
+  />
 </p>
 
-🎬 Super App --- Movie Application
+<p>
+Lightweight and intuitive note-taking application with
+color-coded categories, clean UI and responsive design.
+</p>
+
+<p>
+🔹 Create & manage notes<br/>
+🔹 Color-coded categories<br/>
+🔹 Responsive UI<br/>
+🔹 Clean design<br/>
+🔹 Redux state management
+</p>
+
+<p>
+<b>Tech:</b><br/>
+<code>React</code>
+<code>CSS</code>
+<code>Redux</code>
+<code>React Icons</code>
+</p>
 
 <p align="center">
-
-<img src="public/projects/movie.png" alt="Super App" width="900"/>{=html}
-
+  <a href="https://notes-pocket-app.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/pritibishnoii/notes-pocket-app">
+    <img src="https://img.shields.io/badge/💻%20Source-181717?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
-A movie-focused web application with an interactive interface for
-discovering and viewing movie information.
+</td>
 
-✨ Highlights
+</tr>
 
-Movie browsing
+<tr>
 
-Interactive UI
+<!-- ================= PROJECT 9 ================= -->
 
-Movie information display
+<td width="50%" valign="top">
 
-Responsive experience
-
-Tech Stack: React Node.js Express.js MongoDB
+<h3>🎬 Super App</h3>
 
 <p align="center">
-
-<a href="https://movie-app-alpha-cyan.vercel.app/">{=html}
-<img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Project-00C853?style=for-the-badge"/>{=html}
-</a>{=html}
-<a href="https://github.com/pritibishnoii/movie-app">{=html}
-<img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github"/>{=html}
-</a>{=html}
-
+  <img
+    src="public/projects/movie.png"
+    alt="Super App"
+    width="100%"
+  />
 </p>
 
-💳 Razorpay Clone
+<p>
+Movie-focused web application with an interactive
+interface for discovering and viewing movie information.
+</p>
+
+<p>
+🔹 Movie browsing<br/>
+🔹 Movie information<br/>
+🔹 Interactive UI<br/>
+🔹 Responsive experience
+</p>
+
+<p>
+<b>Tech:</b><br/>
+<code>React</code>
+<code>Node.js</code>
+<code>Express</code>
+<code>MongoDB</code>
+</p>
 
 <p align="center">
-
-<img src="public/projects/razorpay.png" alt="Razorpay Clone" width="900"/>{=html}
-
+  <a href="https://movie-app-alpha-cyan.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/pritibishnoii/movie-app">
+    <img src="https://img.shields.io/badge/💻%20Source-181717?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
-A responsive frontend recreation of the Razorpay homepage focused on
-accurate layout, responsive design, and polished UI implementation.
+</td>
 
-✨ Highlights
+<!-- ================= PROJECT 10 ================= -->
 
-Responsive landing page
+<td width="50%" valign="top">
 
-Modern navigation
-
-Hero section recreation
-
-Responsive sections
-
-Clean frontend implementation
-
-Tech Stack: HTML CSS JavaScript Tailwind CSS
+<h3>💳 Razorpay Clone</h3>
 
 <p align="center">
-
-<a href="https://razorypay.netlify.app/">{=html}
-<img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Project-00C853?style=for-the-badge"/>{=html}
-</a>{=html}
-<a href="https://github.com/pritibishnoii/Razorypay-clone">{=html}
-<img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github"/>{=html}
-</a>{=html}
-
+  <img
+    src="public/projects/razorpay.png"
+    alt="Razorpay Clone"
+    width="100%"
+  />
 </p>
 
-🍸 Cacktail --- Animated Landing Page
+<p>
+Responsive frontend recreation of the Razorpay homepage
+with a focus on clean layout, responsive design and
+polished UI implementation.
+</p>
+
+<p>
+🔹 Responsive landing page<br/>
+🔹 Modern navigation<br/>
+🔹 Hero section<br/>
+🔹 Responsive sections<br/>
+🔹 Clean frontend implementation
+</p>
+
+<p>
+<b>Tech:</b><br/>
+<code>HTML</code>
+<code>CSS</code>
+<code>JavaScript</code>
+<code>Tailwind CSS</code>
+</p>
 
 <p align="center">
-
-<img src="public/projects/cacktail.png" alt="Cacktail Landing Page" width="900"/>{=html}
-
+  <a href="https://razorypay.netlify.app/">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/pritibishnoii/Razorypay-clone">
+    <img src="https://img.shields.io/badge/💻%20Source-181717?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
-A premium cocktail-brand landing page focused on visual storytelling,
-smooth scrolling, responsive design, and high-quality web animation.
+</td>
 
-✨ Highlights
+</tr>
 
-Premium visual design
+<tr>
 
-Smooth scroll experience
+<!-- ================= PROJECT 11 ================= -->
 
-GSAP animations
+<td width="50%" valign="top">
 
-Responsive layout
-
-Modern landing-page interactions
-
-Tech Stack: React.js Tailwind CSS GSAP
+<h3>🍸 Cacktail</h3>
 
 <p align="center">
-
-<a href="https://cacktail-landing-page.vercel.app/">{=html}
-<img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Project-00C853?style=for-the-badge"/>{=html}
-</a>{=html}
-<a href="https://github.com/pritibishnoii/cacktail">{=html}
-<img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github"/>{=html}
-</a>{=html}
-
+  <img
+    src="public/projects/cacktail.png"
+    alt="Cacktail Landing Page"
+    width="100%"
+  />
 </p>
 
-🌟 What These Projects Demonstrate
+<p>
+Premium cocktail-brand landing page focused on visual
+storytelling, smooth scrolling, responsive design and
+high-quality animations.
+</p>
 
-Across these projects, I have worked with:
+<p>
+🔹 Premium visual design<br/>
+🔹 Smooth scrolling<br/>
+🔹 GSAP animations<br/>
+🔹 Responsive layout<br/>
+🔹 Modern interactions
+</p>
 
-React · Next.js · TypeScript · Node.js · Express.js ·
-MongoDB · Redux Toolkit · RTK Query · Socket.IO · WebRTC ·
-Firebase · Groq · OpenRouter · Razorpay · Tailwind CSS ·
-GSAP
-
-My focus is evolving from building traditional full-stack applications
-to building AI-native products that combine strong software
-engineering with LLMs, intelligent workflows, and automation.
+<p>
+<b>Tech:</b><br/>
+<code>React.js</code>
+<code>Tailwind CSS</code>
+<code>GSAP</code>
+</p>
 
 <p align="center">
-
-<b>{=html}More projects and experiments are available on my
-GitHub.</b>{=html}
-
+  <a href="https://cacktail-landing-page.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/pritibishnoii/cacktail">
+    <img src="https://img.shields.io/badge/💻%20Source-181717?style=for-the-badge&logo=github"/>
+  </a>
 </p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>✨ More Projects</h3>
+
+<p align="center">
+  <br/>
+  <br/>
+  <br/>
+  <b>More projects and experiments coming soon...</b>
+  <br/>
+  <br/>
+  <br/>
+  🚀 🧠 💻
+  <br/>
+  <br/>
+  <br/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/pritibishnoii">
+    <img src="https://img.shields.io/badge/Explore%20My%20GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+</td>
+
+</tr>
+
+</table>
 
 ### 🛠️ Tech Stack
 
