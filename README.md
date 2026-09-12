@@ -211,6 +211,12 @@ developer tools and scalable applications.
       alt="Talk to my AI Assistant"
     />
   </a>
+  <a href="https://wa.me/+91 9202604546" target="_blank">
+  <img
+    src="https://img.shields.io/badge/💬%20Connect%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+    alt="Connect on WhatsApp"
+  />
+</a>
 
   <a href="https://github.com/pritibishnoii">
     <img
