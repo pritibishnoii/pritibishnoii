@@ -278,7 +278,7 @@ Conversational AI, Voice AI, and MCP</b>.
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
 
 <h4>🔭 Building</h4>
 
@@ -296,7 +296,7 @@ MCP and LLM application architecture.
 
 </td>
 
-<td width="50%" valign="top">
+<td valign="top">
 
 <h4>🧩 Experimenting With</h4>
 
