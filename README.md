@@ -276,7 +276,7 @@ Conversational AI, Voice AI, and MCP</b>.
 
 <h3>🎯 Currently Exploring</h3>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
