@@ -372,64 +372,6 @@ browsing.
 </td>
 
 </tr>
-
-
-<tr>
-  
-<!-- ===============PROJECT 7 ===================-->
-<td width="50%" valign="top">
-
-<h3>🎤 SpeakHire</h3>
-
-<p align="center">
-  <a href="https://speak-hire-livid.vercel.app/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/pritibishnoii/speakHire/main/public/speak-hire.png"
-      alt="SpeakHire"
-      width="100%"
-    />
-  </a>
-</p>
-
-<p>
-AI-powered interview preparation platform designed to help
-developers practice and improve their interview skills through
-an interactive speaking-based experience.
-</p>
-
-<p>
-🔹 AI-powered interview practice<br/>
-🔹 Interactive speaking experience<br/>
-🔹 Interview-focused user experience<br/>
-🔹 Modern and responsive interface<br/>
-</p>
-
-<p>
-<b>Tech:</b><br/>
-<code>Next.js</code>
-<code>TypeScript</code>
-<code>AI</code>
-<code>Tailwind CSS</code>
-</p>
-
-<p align="center">
-  <a href="https://speak-hire-livid.vercel.app/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge"
-    />
-  </a>
-
-  <a href="https://github.com/pritibishnoii/speakHire" target="_blank">
-    <img
-      src="https://img.shields.io/badge/💻%20Source-181717?style=for-the-badge&logo=github"
-    />
-  </a>
-</p>
-
-</td>
-</tr>
-
-
 <tr>
 
 <!-- ================= PROJECT 8 ================= -->
@@ -482,53 +424,56 @@ and educators.
 </td>
 
 <!-- ================= PROJECT 9 ================= -->
-
 <td width="50%" valign="top">
 
-<h3>📝 Pocket Notes</h3>
+<h3>🎤 SpeakHire</h3>
 
 <p align="center">
-  <a href="https://notes-pocket-app.vercel.app/" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/pritibishnoii/my-portfolio/master/public/projects/note.png"
-    alt="Pocket Notes"
-    width="100%"
-  />
+  <a href="https://speak-hire-livid.vercel.app/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/pritibishnoii/speakHire/main/public/speak-hire.png"
+      alt="SpeakHire"
+      width="100%"
+    />
   </a>
 </p>
 
 <p>
-Lightweight and intuitive note-taking application with
-color-coded categories, clean UI and responsive design.
+AI-powered interview preparation platform designed to help
+developers practice and improve their interview skills through
+an interactive speaking-based experience.
 </p>
 
 <p>
-🔹 Create & manage notes<br/>
-🔹 Color-coded categories<br/>
-🔹 Responsive UI<br/>
-🔹 Clean design<br/>
-🔹 Redux state management
+🔹 AI-powered interview practice<br/>
+🔹 Interactive speaking experience<br/>
+🔹 Interview-focused user experience<br/>
+🔹 Modern and responsive interface<br/>
 </p>
 
 <p>
 <b>Tech:</b><br/>
-<code>React</code>
-<code>CSS</code>
-<code>Redux</code>
-<code>React Icons</code>
+<code>Next.js</code>
+<code>TypeScript</code>
+<code>AI</code>
+<code>Tailwind CSS</code>
 </p>
 
 <p align="center">
-  <a href="https://notes-pocket-app.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge"/>
+  <a href="https://speak-hire-livid.vercel.app/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge"
+    />
   </a>
-  <a href="https://github.com/pritibishnoii/notes-pocket-app">
-    <img src="https://img.shields.io/badge/💻%20Source-181717?style=for-the-badge&logo=github"/>
+
+  <a href="https://github.com/pritibishnoii/speakHire" target="_blank">
+    <img
+      src="https://img.shields.io/badge/💻%20Source-181717?style=for-the-badge&logo=github"
+    />
   </a>
 </p>
 
 </td>
-
 </tr>
 
 <tr>
@@ -683,6 +628,55 @@ high-quality animations.
 
 <td width="50%" valign="top">
 
+<h3>📝 Pocket Notes</h3>
+
+<p align="center">
+  <a href="https://notes-pocket-app.vercel.app/" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/pritibishnoii/my-portfolio/master/public/projects/note.png"
+    alt="Pocket Notes"
+    width="100%"
+  />
+  </a>
+</p>
+
+<p>
+Lightweight and intuitive note-taking application with
+color-coded categories, clean UI and responsive design.
+</p>
+
+<p>
+🔹 Create & manage notes<br/>
+🔹 Color-coded categories<br/>
+🔹 Responsive UI<br/>
+🔹 Clean design<br/>
+🔹 Redux state management
+</p>
+
+<p>
+<b>Tech:</b><br/>
+<code>React</code>
+<code>CSS</code>
+<code>Redux</code>
+<code>React Icons</code>
+</p>
+
+<p align="center">
+  <a href="https://notes-pocket-app.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-00C853?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/pritibishnoii/notes-pocket-app">
+    <img src="https://img.shields.io/badge/💻%20Source-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+  <td width="50%" valign="top">
+
 <h3>✨ More Projects</h3>
 
 <p align="center">
@@ -706,9 +700,7 @@ high-quality animations.
 </p>
 
 </td>
-
 </tr>
-
 
 
 </table>
