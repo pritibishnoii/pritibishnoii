@@ -283,14 +283,14 @@ Conversational AI, Voice AI, and MCP</b>.
 <h4>🔭 Building</h4>
 
 <p>
-AI-powered features and intelligent workflows
+AI-powered features and intelligent workflows<br/>
 on top of modern full-stack applications.
 </p>
 
 <h4>🌱 Learning</h4>
 
 <p>
-RAG, Agentic AI, AI Agents, Voice AI,
+RAG, Agentic AI, AI Agents, Voice AI,<br/>
 MCP and LLM application architecture.
 </p>
 
@@ -301,14 +301,14 @@ MCP and LLM application architecture.
 <h4>🧩 Experimenting With</h4>
 
 <p>
-OpenAI, OpenRouter, Groq, Vapi
+OpenAI, OpenRouter, Groq, Vapi<br/>
 and modern LLM APIs.
 </p>
 
 <h4>💡 Interested In</h4>
 
 <p>
-AI-native products, automation, intelligent
+AI-native products, automation, intelligent<br/>
 developer tools and scalable applications.
 </p>
 
