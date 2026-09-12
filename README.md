@@ -44,7 +44,7 @@
 ---
 
 <!-- ================= ABOUT ME ================= -->
-
+<div width="100">
 <h2 align="center">👨‍💻 About Me</h2>
 
 <table>
@@ -315,6 +315,7 @@ developer tools and scalable applications.
 </td>
 </tr>
 </table>
+</div>
 
 <br/>
 <blockquote align="center">
@@ -340,8 +341,10 @@ great software engineering meets intelligent AI experiences.
   <b>A collection of full-stack, AI-powered, real-time and frontend projects I've built.</b>
 </p>
 
+
 <table>
 <tr>
+
 
 <!-- ================= PROJECT 1 ================= -->
 
