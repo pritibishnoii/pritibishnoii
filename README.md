@@ -43,8 +43,6 @@ I'm especially interested in the intersection of **Full-Stack Engineering × Gen
 > 🎯 **My Goal:** Build the next generation of applications where **great software engineering meets intelligent AI experiences.** 🚀
 
 ### 🚀 Featured Projects
-## 🚀 Featured Projects
-
 <p align="center">
   <b>A collection of full-stack, AI-powered, real-time and frontend projects I've built.</b>
 </p>
@@ -455,7 +453,7 @@ an interactive speaking-based experience.
 <b>Tech:</b><br/>
 <code>Next.js</code>
 <code>TypeScript</code>
-<code>AI</code>
+<code>AI vapi </code>
 <code>Tailwind CSS</code>
 </p>
 
