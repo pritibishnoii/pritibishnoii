@@ -1,11 +1,44 @@
 <h1 align="center">Hi, I'm Priti Bishnoi 👋</h1>
 <h3 align="center">Full Stack Developer (MERN) → Building toward AI-Native Development</h3>
-
 <p align="center">
-  <a href="https://preetiportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Talk_to_my_AI_Assistant-000?style=for-the-badge&logo=vercel" /></a>
-  <a href="https://www.linkedin.com/in/priti-bishnoi/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:priti12bishnoi@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://preetiportfolio.vercel.app/">
+    <img
+      src="https://img.shields.io/badge/🤖%20Talk%20to%20My%20AI%20Assistant-000000?style=for-the-badge"
+      alt="Talk to my AI Assistant"
+    />
+  </a>
+  <a href="https://wa.me/919202604546" target="_blank">
+  <img
+    src="https://img.shields.io/badge/💬%20Connect%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+    alt="Connect on WhatsApp"
+  />
+</a>
+
+  <a href="https://github.com/pritibishnoii">
+    <img
+      src="https://img.shields.io/badge/💻%20Explore%20My%20GitHub-181717?style=for-the-badge&logo=github"
+      alt="Explore GitHub"
+    />
+  </a>
+
+  <a href="mailto:priti12bishnoi@gmail.com">
+    <img
+      src="https://img.shields.io/badge/📩%20Let's%20Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+
+ 
+  <a href="https://www.linkedin.com/in/priti-bishnoi/">
+         <img
+           src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"
+           alt="linkedin"
+           />
+  </a>
+
 </p>
+
+<br/>
 
 
 ---
@@ -284,38 +317,6 @@ developer tools and scalable applications.
 </table>
 
 <br/>
-
-<p align="center">
-  <a href="https://preetiportfolio.vercel.app/">
-    <img
-      src="https://img.shields.io/badge/🤖%20Talk%20to%20My%20AI%20Assistant-000000?style=for-the-badge"
-      alt="Talk to my AI Assistant"
-    />
-  </a>
-  <a href="https://wa.me/919202604546" target="_blank">
-  <img
-    src="https://img.shields.io/badge/💬%20Connect%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
-    alt="Connect on WhatsApp"
-  />
-</a>
-
-  <a href="https://github.com/pritibishnoii">
-    <img
-      src="https://img.shields.io/badge/💻%20Explore%20My%20GitHub-181717?style=for-the-badge&logo=github"
-      alt="Explore GitHub"
-    />
-  </a>
-
-  <a href="mailto:priti12bishnoi@gmail.com">
-    <img
-      src="https://img.shields.io/badge/📩%20Let's%20Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
-  </a>
-</p>
-
-<br/>
-
 <blockquote align="center">
 
 <h3>🎯 My Goal</h3>
