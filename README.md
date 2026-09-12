@@ -91,8 +91,8 @@ Conversational AI, Voice AI, and MCP</b>.
 <br/>
 
 <h2>🧠 What I Work With</h2>
-
-<table width="100%">
+<div align="center">
+<table width="100%" center>
   <tr>
    
   <td width="50%" valign="top">
@@ -270,15 +270,15 @@ Conversational AI, Voice AI, and MCP</b>.
    </td>
   </tr>
 </table>
-
+</div>
 
 <br/>
 
 <h3>🎯 Currently Exploring</h3>
 
-<table width="100%">
+<table align="center">
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
 <h4>🔭 Building</h4>
 
@@ -296,7 +296,7 @@ MCP and LLM application architecture.
 
 </td>
 
-<td valign="top">
+<td width="50%" valign="top">
 
 <h4>🧩 Experimenting With</h4>
 
