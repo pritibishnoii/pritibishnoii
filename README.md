@@ -51,7 +51,7 @@ applications and real-time communication to AI-powered developer tools.
 
 <p align="center">
 
-<img src="public/projects/InterviewIQ-chat.png" alt="InterviewIQ.AI" width="900"/>{=html}
+<img src="https://github.com/pritibishnoii/my-portfolio/blob/master/public/projects/InterviewIQ-chat.png" alt="InterviewIQ.AI" width="900"/>
 
 </p>
 
