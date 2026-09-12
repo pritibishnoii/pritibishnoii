@@ -626,7 +626,7 @@ high-quality animations.
 
 <tr>
   
-</tr>
+
 <!-- ===============PROJECT 12 ===================-->
 <td width="50%" valign="top">
 
@@ -678,6 +678,7 @@ an interactive speaking-based experience.
 </p>
 
 </td>
+</tr>
 
 <td width="50%" valign="top">
 
