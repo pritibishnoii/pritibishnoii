@@ -21,7 +21,7 @@
     />
   </a>
 <br/
-  <a href="mailto:priti12bishnoi@gmail.com">
+  <a href="mailto:preet29i.bishnoi@gmail.com">
     <img
       src="https://img.shields.io/badge/📩%20Let's%20Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Email"
